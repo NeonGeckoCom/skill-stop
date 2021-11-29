@@ -3,3 +3,4 @@ Changes made to the original Apache Code are listed here:
 - Added mobile support
 - Support optional wake word
 - Updated Documentation
+- Remove extraneous functionality unrelated to 'stop'
