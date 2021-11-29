@@ -1,3 +1,4 @@
+*.lock
+.idea/
 *.pyc
-.*
-settings.json
+__pycache__/
