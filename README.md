@@ -1,26 +1,35 @@
-# <img src='https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/cog.svg' card_color='#40DBB0' width='50' height='50' style='vertical-align:bottom'/> System
-General system control
+# <img src='https://0000.us/klatchat/app/files/neon_images/icons/neon_skill.png' card_color="#FF8600" width="50" style="vertical-align:bottom">Stop
 
-## About
-Provides verbal interfaces for basic framework interactions, such as the
-"Stop" command.  Also provide interface to control physical Mycroft hardware.
+## Summary
 
-NOTE: This Skill is a little unusual in that it really doesn't do anything
-directly, rather it emits messages for the device creator to capture.
+Stop the actions of any skill that is in progress.
 
+## Requirements
+
+No special required packages for this skill.
+
+## Description
+
+This skill is used by other skills to stop any active intent handlers.
 
 ## Examples
+
+Say any of the following:
+
 * "Stop"
-* "Reboot"
-* "Turn off"
-* "Allow remote login"
-* "Configure wifi"
+
+* "Silence"
+
+* "Neon shut up"
+
+* "Be quiet"
+
+## Contact Support
+
+Use the [link](https://neongecko.com/ContactUs) or
+[submit an issue on GitHub](https://help.github.com/en/articles/creating-an-issue)
 
 ## Credits
-Mycroft AI (@MycroftAI)
-
-## Category
-**Configuration**
-
-## Tags
-#system
+[Mycroft AI](https://github.com/MycroftAI)
+[NeonDaniel](https://github.com/NeonDaniel)
+[reginaneon](https://github.com/reginaneon)
